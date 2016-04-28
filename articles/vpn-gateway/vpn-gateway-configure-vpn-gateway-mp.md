@@ -29,7 +29,7 @@ Additionally, you'll have to make sure that the device you want to use for your 
 
 **About this article** 
 
-This article was written for the classic deployment model using the [classic portal](https://manage.windowsazure.com) (not the Azure Portal). When we have an article available for the resource manager deployment model, we will link to it from here. 
+This article was written for the classic deployment model using the [classic portal](https://manage.windowsazure.com) (not the Azure Portal). When we have an article available for the resource manager deployment model, we will link to it from [here](vpn-gateway-create-site-to-site-rm-powershell.md). 
 
 **About Azure deployment models**
 
